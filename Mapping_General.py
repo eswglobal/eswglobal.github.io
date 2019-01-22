@@ -13,7 +13,8 @@ import pandas as pd
 from geopy.geocoders import Nominatim, GoogleV3
 import folium
 
-inputfile=str(sys.argv[1])
+#inputfile=str(sys.argv[1])
+inputfile = 'ESW_data.xlsx'
 # namecolumn=str(sys.argv[2])
 
 io = pd.read_excel(inputfile, sheet_name='Sheet1')
