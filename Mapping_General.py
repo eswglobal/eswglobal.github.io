@@ -26,7 +26,7 @@ def get_latitude(x):
 def get_longitude(x):
     return x.longitude
     
-geolocator = Nominatim(user_agent="my-application",timeout=5)
+geolocator = Nominatim(user_agent="esw-map",timeout=5)
 
   #geolocator = GoogleV3(timeout=5)
   # uncomment the geolocator you want to use
@@ -54,4 +54,4 @@ for i in range(0,len(io)):
     folium.Marker([io.iloc[i]['latitude'], io.iloc[i]['longitude']], popup=popup).add_to(m)
 
 # Save it as html
-m.save('index.html')
+m.save('ESW_chapters.html')
