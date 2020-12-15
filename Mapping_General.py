@@ -12,13 +12,12 @@ import geopy, sys
 import pandas as pd
 from geopy.geocoders import Nominatim, GoogleV3
 import folium
+import os
 from folium import IFrame
 
-#inputfile=str(sys.argv[1])
-inputfile = 'ESW_data.xlsx'
-# namecolumn=str(sys.argv[2])
+inputfile = 'ESW_data.csv'
 
-io = pd.read_excel(inputfile, sheet_name='Sheet1')
+io = pd.read_csv(inputfile)
 
 def get_latitude(x):
     return x.latitude
@@ -54,4 +53,4 @@ for i in range(0,len(io)):
     folium.Marker([io.iloc[i]['latitude'], io.iloc[i]['longitude']], popup=popup).add_to(m)
 
 # Save it as html
-m.save('ESW_chapters.html')
+m.save('index.html')
