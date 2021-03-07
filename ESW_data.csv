@@ -1,49 +1,51 @@
-State,Address,Chapter_Name,Chapter_Locator,Abbrev,Region,Chapter_Website,Chapter_FB,
-Washington DC,"4400 Massachusetts Ave NW, Washington, DC 20016",American University,American University,AU,South Atlantic,None,https://www.facebook.com/Engineers-for-a-Sustainable-World-AU-821192728229763/, 
-Rhode Island,"75 Waterman St, Providence, RI 02912",Brown University,Brown University,Brown,New England,None,None, 
-California,"1 Grand Ave, San Luis Obispo, CA 93405",California Polytechnic State University - San Luis Obispo ,California Polytechnic State University - San Luis Obispo ,Cal Poly SLA,West,None,https://www.facebook.com/ESWCalPoly/, 
-California,"1250 Bellflower Blvd, Long Beach, CA 90840",California State University - Long Beach,California State University - Long Beach,CSULB,West,https://eswcsulb.wixsite.com/eswcsulb,https://www.facebook.com/eswcsulb?fref=ts, 
-California,"5151 State University Dr, Los Angeles, CA 90032",California State University - Los Angeles,"5151 State University Dr, Los Angeles, CA 90032",CSULA,West,None,https://www.facebook.com/ESWCSULA/, 
-Pennsylvania,"5000 Forbes Ave, Pittsburgh, PA 15213",Carnegie Melon University,"5000 Forbes Ave, Pittsburgh, PA 15213",CMU,Mid-Atlantic,http://www.andrew.cmu.edu/user/esworld/,None, 
-New York,"8 Clarkson Ave, Potsdam, NY 13699",Clarkson University,Clarkson University,Clarkson,Mid-Atlantic,https://knightlife.clarkson.edu/organization/eis,None, 
-New York,"616 Thurston Ave, Ithaca, NY 14853",Cornell University,Cornell University,Cornell,Mid-Atlantic,https://esw.engineering.cornell.edu/,https://www.facebook.com/ESWCornell/, 
-Virginia,"1200 Park Rd, Harrisonburg, VA 22802",Eastern Mennonite University,"1200 Park Rd, Harrisonburg, VA 22802",EMU,South Atlantic,https://emu.edu/studentlife/clubs/websites/engineers-for-a-sustainable-world,None, 
-Pennsylvania,"1 Alpha Dr, Elizabethtown, PA 17022",Elizabethtown College,Elizabethtown College,Elizabethtown,Mid-Atlantic,https://www.etown.edu/campus-life/student-clubs-listing.aspx#engineeringsustainable,None, 
-Georgia,"1 North Ave NW, Atlanta, GA 30332",Georgia Institute of Technology,Georgia Institute of Technology,Georgia Tech,South Atlantic,http://www.esw.gtorg.gatech.edu/,https://www.facebook.com/gt.esw/,
-California,"301 Platt Blvd, Claremont, CA 91711",Harvey Mudd College,Harvey Mudd College,Harvey Mudd,West,https://sites.google.com/site/muddsustainability/home,https://www.facebook.com/PowerDownMudd/, 
-Illinois,"10 W 35th St, Chicago, IL 60616",Illinois Institute of Technology,Illinois Institute of Technology,Illinois Tech,Midwest,https://hawklink.iit.edu/organization/esw,https://www.facebook.com/eswiit/, 
-Arkansas,"2000 W University St, Siloam Springs, AR 72761",John Brown University,"2000 W University St, Siloam Springs, AR 72761",JBU,South Central,None,https://www.facebook.com/johnbrownesw/, 
-Florida,"300 NE 2nd Ave, Miami, FL 33132",Miami Dade College,"300 NE 2nd Ave, Miami, FL 33132",Miami Dade,South Atlantic,https://sharknet.mdc.edu/organization/eswmdc,https://www.facebook.com/ESWMDC/, 
-Michigan,"1 Wilson Rd, East Lansing, MI 48823",Michigan State University,Michigan State University,MSU,Midwest,https://eswmsu.wordpress.com/,https://www.facebook.com/eswmichstate/, 
-Illinois,"555 31st St, Downers Grove, IL 60515",Midwestern University,"555 31st St, Downers Grove, IL 60515",MU,Midwest,None,None, 
-Illinois,"633 Clark St, Evanston, IL 60208",Northwestern University,"633 Clark St, Evanston, IL 60208",NU,Midwest,https://eswnu.herokuapp.com/,https://www.facebook.com/eswnu/, 
-Ohio,"2120 Fyffe Rd, Columbus, OH 43210",Ohio State University,Ohio State University,Ohio State,Midwest,http://org.osu.edu/esw/,https://www.facebook.com/ESWatOSU/, 
-Pennsylvania,"1 Shortlidge Rd, State College, PA 16802",Pennsylvania State University,Pennsylvania State University,Penn State,Mid-Atlantic,None,https://www.facebook.com/PennStateESW/, 
-Indiana,"610 Purdue Mall, West Lafayette, IN 47907",Purdue University,Purdue University,Purdue,Midwest,https://boilerlink.purdue.edu/organization/esw,https://www.facebook.com/ESWPurdue/, 
-New York,"110 8th St, Troy, NY 12180",Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,RPI,Mid-Atlantic,https://eswatrpi.wixsite.com/eswrpi,https://www.facebook.com/ESWRPI/, 
-New York,"1 Lomb Memorial Dr, Rochester, NY 14623",Rochester Institute of Technology,Rochester institute of technology (RIT),RIT,Mid-Atlantic,https://www.eswrit.com/,https://www.facebook.com/ESWRIT/, 
-Indiana,"5500 Wabash Ave, Terre Haute, IN 47803",Rose-Hulman Institute of Technology,Rose-Hulman Institute of Technology,RHIT,Midwest,None,https://www.facebook.com/ESWRHIT/, 
-Massachusetts,"44 College Ln, Northampton, MA 01063",Smith College,Smith College,Smith,New England,https://eswsmithcollege.wordpress.com/,https://www.facebook.com/eswsmith/, 
-California,"450 Serra Mall, Stanford, CA 94305",Stanford University,Stanford University,Stanford,West,https://haas.stanford.edu/students/cardinal-commitment/engineers-sustainable-world-esw,https://www.facebook.com/ESWStanford/, 
-New Jersey,"1 Castle Point Terrace, Hoboken, NJ 07030",Stevens Institute of Technology,Stevens Institute of Technology,Stevens,Mid-Atlantic,None,None, 
-Texas,"400 Bizzell St, College Station, TX 77843",Texas Agriculture and Mechanics University,"400 Bizzell St, College Station, TX 77843",Texas A&M / TAMU,South Central,https://esw-tamu.weebly.com/,https://www.facebook.com/eswtamu/, 
-New York,"1 Flint Entrance, Buffalo, NY 14228",University at Buffalo,University at Buffalo,UB,Mid-Atlantic,http://www.eswub.com/,None, 
-Ohio,"302 E Buchtel Ave, Akron, OH 44325",University of Akron,University of Akron,Akron,Mid-Atlantic,https://uakron.campuslabs.com/engage/organization/engineers-for-a-sustainable-world,https://www.facebook.com/UAkronESW/, 
-Arizona,"1428 E University Blvd, Tucson, AZ 85719",University of Arizona - Tucson,"1428 E University Blvd, Tucson, AZ 85719",UA Tucson,West,None,https://www.facebook.com/Engineers-for-a-Sustainable-World-Arizona-Chapter-1061034344030950/, 
-British Columbia,"2212 Main Mall, Vancouver, BC V6T 1Z4, Canada",University of British Columbia -  Vancouver,University of British Columbia -  Vancouver,UBC Vancouver,West,https://blogs.ubc.ca/ubcesw/,https://www.facebook.com/eswubc/, 
-California,"320 Mclaughlin Hall, Berkeley, CA 94720",University of California - Berkeley,University of California - Berkeley,UC Berkeley,West,https://esw.berkeley.edu/,https://www.facebook.com/eswberkeley/, 
-California,"5200 Engineering Service Rd, Irvine, CA 92617",University of California - Irvine,University of California - Irvine,UCI,West,https://eswuci.wixsite.com/eswuci,https://www.facebook.com/ESW.UCI/, 
-California,"5200 Lake Rd, Merced, CA 95343",University of California - Merced,University of California - Merced,UC Merced,West,https://catlife.ucmerced.edu/organization/ESW,https://www.facebook.com/ESWUCM/, 
-California,"9500 Gilman Dr, La Jolla, CA 92093",University of California - San Diego,University of California - San Diego,UC San Diego,West,https://eswtritons.wordpress.com/,https://www.facebook.com/eswucsd/, 
-Ontario,"50 Stone Rd E, Guelph, ON N1G 2W1, Canada",University of Guelph,University of Guelph,Guelph,Mid-Atlantic,https://uogesw.wordpress.com/,None, 
-Illinois,"1200 W Harrison St, Chicago, IL 60607",University of Illinois - Chicago,"1200 W Harrison St, Chicago, IL 60607",UIC,Midwest,https://esw.students.uic.edu/,None, 
-Kentucky,"4810 Alben Barkley Dr, Paducah, KY 42002",University of Kentucky - Paducah,"4810 Alben Barkley Dr, Paducah, KY 42002",UK Paducah,South Central,https://www.engr.uky.edu/research-faculty/departments/paducah-campus/students/student-organizations,None, 
-Massachusetts,"220 Pawtucket St, Lowell, MA 01854",University of Massachusetts - Lowell,University of Massachusetts - Lowell,UM Lowell,New England,https://www.uml.edu/research/energy/campus-energy-initiatives/student-clubs.aspx,https://www.facebook.com/ESWLowell/, 
-Pennsylvania,"4200 Fifth Ave, Pittsburgh, PA 15260",University of Pittsburgh,University of Pittsburgh,Pittsburgh,Mid-Atlantic,https://www.sustainable.pitt.edu/active-tips/engineers-for-a-sustainable-world/,https://www.facebook.com/ESWPitt/, 
-Rhode Island,"45 Upper College Rd, Kingston, RI 02881",University of Rhode Island,University of Rhode Island,URI,New England,http://egr.uri.edu/esw/,https://www.facebook.com/uri.esw/, 
-New York,"1 Intercampus Dr, Rochester, NY 14627",University of Rochester,"1 Intercampus Dr, Rochester, NY 14627",UR,Mid-Atlantic,https://ccc.rochester.edu/organization/engineersforasustainableworld,https://www.facebook.com/uresw/, 
-Minnesota,"2115 Summit Ave, St Paul, MN 55105",University of St. Thomas,University of St. Thomas,St. Thomas,Midwest,https://stthomas.campuslabs.com/engage/organization/ESW,https://www.facebook.com/Engineers-for-a-Sustainable-World-University-of-Saint-Thomas-819383028104293/, 
-Texas,"110 Inner Campus Drive, Austin, TX 78712",University of Texas - Austin,"110 Inner Campus Drive, Austin, TX 78712",UT Austin,South Central,http://www.eswut.com/,https://www.facebook.com/ESWUTEXAS/, 
-Texas,"500 W University Ave, El Paso, TX 79968",University of Texas - El Paso,"500 W University Ave, El Paso, TX 79968",UTEP,South Central,http://www.engineering.utep.edu/esw/,https://www.facebook.com/ESWUTEP/, 
-Wisconsin,"1550 Linden Dr, Madison, WI 53706",University of Wisconsin - Madison,University of Wisconsin - Madison,Madison,Midwest,https://win.wisc.edu/organization/esw-uwmadison,None,
-Hawai'i,"2500 Campus Rd, Honolulu, HI 96822",University of Hawai'i - Mānoa,University of Hawai'i - Mānoa,UH Mānoa,West,None,None,
+﻿State,Address,Chapter_Name,Chapter_Locator,Abbrev,Region,Chapter_Website,Chapter_FB
+Pennsylvania,"1 Alpha Dr, Elizabethtown, PA 17022",Elizabethtown College,Elizabethtown College,Elizabethtown,Mid-Atlantic,https://www.etown.edu/campus-life/student-clubs-listing.aspx#engineeringsustainable,None
+New Jersey,"1 Castle Point Terrace, Hoboken, NJ 07030",Stevens Institute of Technology,Stevens Institute of Technology,Stevens,Mid-Atlantic,None,None
+New York,"1 Flint Entrance, Buffalo, NY 14228",University at Buffalo,University at Buffalo,UB,Mid-Atlantic,http://www.eswub.com/,None
+California,"1 Grand Ave, San Luis Obispo, CA 93405",California Polytechnic State University - San Luis Obispo ,California Polytechnic State University - San Luis Obispo ,Cal Poly SLA,West,None,https://www.facebook.com/ESWCalPoly/
+New York,"1 Intercampus Dr, Rochester, NY 14627",University of Rochester,"1 Intercampus Dr, Rochester, NY 14627",UR,Mid-Atlantic,https://ccc.rochester.edu/organization/engineersforasustainableworld,https://www.facebook.com/uresw/
+New York,"1 Lomb Memorial Dr, Rochester, NY 14623",Rochester Institute of Technology,Rochester institute of technology (RIT),RIT,Mid-Atlantic,https://www.eswrit.com/,https://www.facebook.com/ESWRIT/
+Georgia,"1 North Ave NW, Atlanta, GA 30332",Georgia Institute of Technology,Georgia Institute of Technology,Georgia Tech,South Atlantic,http://www.esw.gtorg.gatech.edu/,https://www.facebook.com/gt.esw/
+Pennsylvania,"1 Shortlidge Rd, State College, PA 16802",Pennsylvania State University,Pennsylvania State University,Penn State,Mid-Atlantic,None,https://www.facebook.com/PennStateESW/
+Michigan,"1 Wilson Rd, East Lansing, MI 48823",Michigan State University,Michigan State University,MSU,Midwest,https://eswmsu.wordpress.com/,https://www.facebook.com/eswmichstate/
+Illinois,"10 W 35th St, Chicago, IL 60616",Illinois Institute of Technology,Illinois Institute of Technology,Illinois Tech,Midwest,https://hawklink.iit.edu/organization/esw,https://www.facebook.com/eswiit/
+New York,"110 8th St, Troy, NY 12180",Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,RPI,Mid-Atlantic,https://eswatrpi.wixsite.com/eswrpi,https://www.facebook.com/ESWRPI/
+Texas,"110 Inner Campus Drive, Austin, TX 78712",University of Texas - Austin,"110 Inner Campus Drive, Austin, TX 78712",UT Austin,South Central,http://www.eswut.com/,https://www.facebook.com/ESWUTEXAS/
+Virginia,"1200 Park Rd, Harrisonburg, VA 22802",Eastern Mennonite University,"1200 Park Rd, Harrisonburg, VA 22802",EMU,South Atlantic,https://emu.edu/studentlife/clubs/websites/engineers-for-a-sustainable-world,None
+Illinois,"1200 W Harrison St, Chicago, IL 60607",University of Illinois - Chicago,"1200 W Harrison St, Chicago, IL 60607",UIC,Midwest,https://esw.students.uic.edu/,None
+California,"1250 Bellflower Blvd, Long Beach, CA 90840",California State University - Long Beach,California State University - Long Beach,CSULB,West,https://eswcsulb.wixsite.com/eswcsulb,https://www.facebook.com/eswcsulb?fref=ts
+Arizona,"1428 E University Blvd, Tucson, AZ 85719",University of Arizona - Tucson,"1428 E University Blvd, Tucson, AZ 85719",UA Tucson,West,None,https://www.facebook.com/Engineers-for-a-Sustainable-World-Arizona-Chapter-1061034344030950/
+Wisconsin,"1550 Linden Dr, Madison, WI 53706",University of Wisconsin - Madison,University of Wisconsin - Madison,Madison,Midwest,https://win.wisc.edu/organization/esw-uwmadison,None
+Arkansas,"2000 W University St, Siloam Springs, AR 72761",John Brown University,"2000 W University St, Siloam Springs, AR 72761",JBU,South Central,None,https://www.facebook.com/johnbrownesw/
+Minnesota,"2115 Summit Ave, St Paul, MN 55105",University of St. Thomas,University of St. Thomas,St. Thomas,Midwest,https://stthomas.campuslabs.com/engage/organization/ESW,https://www.facebook.com/Engineers-for-a-Sustainable-World-University-of-Saint-Thomas-819383028104293/
+Ohio,"2120 Fyffe Rd, Columbus, OH 43210",Ohio State University,Ohio State University,Ohio State,Midwest,http://org.osu.edu/esw/,https://www.facebook.com/ESWatOSU/
+Massachusetts,"220 Pawtucket St, Lowell, MA 01854",University of Massachusetts - Lowell,University of Massachusetts - Lowell,UM Lowell,New England,https://www.uml.edu/research/energy/campus-energy-initiatives/student-clubs.aspx,https://www.facebook.com/ESWLowell/
+British Columbia,"2212 Main Mall, Vancouver, BC V6T 1Z4, Canada",University of British Columbia -  Vancouver,University of British Columbia -  Vancouver,UBC Vancouver,West,https://blogs.ubc.ca/ubcesw/,https://www.facebook.com/eswubc/
+Hawai'i,"2500 Campus Rd, Honolulu, HI 96822",University of Hawai'i - Mānoa,University of Hawai'i - Mānoa,UH Mānoa,West,None,None
+Florida,"300 NE 2nd Ave, Miami, FL 33132",Miami Dade College,"300 NE 2nd Ave, Miami, FL 33132",Miami Dade,South Atlantic,https://sharknet.mdc.edu/organization/eswmdc,https://www.facebook.com/ESWMDC/
+California,"301 Platt Blvd, Claremont, CA 91711",Harvey Mudd College,Harvey Mudd College,Harvey Mudd,West,https://sites.google.com/site/muddsustainability/home,https://www.facebook.com/PowerDownMudd/
+Ohio,"302 E Buchtel Ave, Akron, OH 44325",University of Akron,University of Akron,Akron,Mid-Atlantic,https://uakron.campuslabs.com/engage/organization/engineers-for-a-sustainable-world,https://www.facebook.com/UAkronESW/
+Michigan,"318 Meadow Brook Rd, Rochester, MI 48309",Oakland University,Oakland University,Oakland,Midwest,https://oaklandu.campuslabs.com/engage/organization/esw,None
+California,"320 Mclaughlin Hall, Berkeley, CA 94720",University of California - Berkeley,University of California - Berkeley,UC Berkeley,West,https://esw.berkeley.edu/,https://www.facebook.com/eswberkeley/
+Texas,"400 Bizzell St, College Station, TX 77843",Texas Agriculture and Mechanics University,"400 Bizzell St, College Station, TX 77843",Texas A&M / TAMU,South Central,https://esw-tamu.weebly.com/,https://www.facebook.com/eswtamu/
+Pennsylvania,"4200 Fifth Ave, Pittsburgh, PA 15260",University of Pittsburgh,University of Pittsburgh,Pittsburgh,Mid-Atlantic,https://www.sustainable.pitt.edu/active-tips/engineers-for-a-sustainable-world/,https://www.facebook.com/ESWPitt/
+Massachusetts,"44 College Ln, Northampton, MA 01063",Smith College,Smith College,Smith,New England,https://eswsmithcollege.wordpress.com/,https://www.facebook.com/eswsmith/
+Washington DC,"4400 Massachusetts Ave NW, Washington, DC 20016",American University,American University,AU,South Atlantic,None,https://www.facebook.com/Engineers-for-a-Sustainable-World-AU-821192728229763/
+Rhode Island,"45 Upper College Rd, Kingston, RI 02881",University of Rhode Island,University of Rhode Island,URI,New England,http://egr.uri.edu/esw/,https://www.facebook.com/uri.esw/
+California,"450 Serra Mall, Stanford, CA 94305",Stanford University,Stanford University,Stanford,West,https://haas.stanford.edu/students/cardinal-commitment/engineers-sustainable-world-esw,https://www.facebook.com/ESWStanford/
+Kentucky,"4810 Alben Barkley Dr, Paducah, KY 42002",University of Kentucky - Paducah,"4810 Alben Barkley Dr, Paducah, KY 42002",UK Paducah,South Central,https://www.engr.uky.edu/research-faculty/departments/paducah-campus/students/student-organizations,None
+Ontario,"50 Stone Rd E, Guelph, ON N1G 2W1, Canada",University of Guelph,University of Guelph,Guelph,Mid-Atlantic,https://uogesw.wordpress.com/,None
+Texas,"500 W University Ave, El Paso, TX 79968",University of Texas - El Paso,"500 W University Ave, El Paso, TX 79968",UTEP,South Central,http://www.engineering.utep.edu/esw/,https://www.facebook.com/ESWUTEP/
+Pennsylvania,"5000 Forbes Ave, Pittsburgh, PA 15213",Carnegie Melon University,"5000 Forbes Ave, Pittsburgh, PA 15213",CMU,Mid-Atlantic,http://www.andrew.cmu.edu/user/esworld/,None
+California,"5151 State University Dr, Los Angeles, CA 90032",California State University - Los Angeles,"5151 State University Dr, Los Angeles, CA 90032",CSULA,West,None,https://www.facebook.com/ESWCSULA/
+California,"5200 Engineering Service Rd, Irvine, CA 92617",University of California - Irvine,University of California - Irvine,UCI,West,https://eswuci.wixsite.com/eswuci,https://www.facebook.com/ESW.UCI/
+California,"5200 Lake Rd, Merced, CA 95343",University of California - Merced,University of California - Merced,UC Merced,West,https://catlife.ucmerced.edu/organization/ESW,https://www.facebook.com/ESWUCM/
+Indiana,"5500 Wabash Ave, Terre Haute, IN 47803",Rose-Hulman Institute of Technology,Rose-Hulman Institute of Technology,RHIT,Midwest,None,https://www.facebook.com/ESWRHIT/
+Illinois,"555 31st St, Downers Grove, IL 60515",Midwestern University,"555 31st St, Downers Grove, IL 60515",MU,Midwest,None,None
+Indiana,"610 Purdue Mall, West Lafayette, IN 47907",Purdue University,Purdue University,Purdue,Midwest,https://boilerlink.purdue.edu/organization/esw,https://www.facebook.com/ESWPurdue/
+New York,"616 Thurston Ave, Ithaca, NY 14853",Cornell University,Cornell University,Cornell,Mid-Atlantic,https://esw.engineering.cornell.edu/,https://www.facebook.com/ESWCornell/
+Illinois,"633 Clark St, Evanston, IL 60208",Northwestern University,"633 Clark St, Evanston, IL 60208",NU,Midwest,https://eswnu.herokuapp.com/,https://www.facebook.com/eswnu/
+Rhode Island,"75 Waterman St, Providence, RI 02912",Brown University,Brown University,Brown,New England,None,None
+New York,"8 Clarkson Ave, Potsdam, NY 13699",Clarkson University,Clarkson University,Clarkson,Mid-Atlantic,https://knightlife.clarkson.edu/organization/eis,None
+Washington,"901 12th Ave, Seattle, WA 98122",Seattle University,Seattle University,Seattle,West,http://www.seattleu-esw.org/,https://www.facebook.com/eswseattle/
+California,"9500 Gilman Dr, La Jolla, CA 92093",University of California - San Diego,University of California - San Diego,UC San Diego,West,https://eswtritons.wordpress.com/,https://www.facebook.com/eswucsd/
