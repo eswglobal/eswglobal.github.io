@@ -37,7 +37,7 @@ io['longitude'] = geolocate_column.apply(get_longitude)
 io.to_csv('geocoding-output-helper.csv')
 
 #initalizing folium map object as m and using the geographic mean of the data points to center the viewpoint; basemap defaults to OSM
-m = folium.Map(location=[io['latitude'].mean(), io['longitude'].mean()-35],tiles="OpenStreetMap", zoom_start=4)
+m = folium.Map(location=[io['latitude'].mean(), io['longitude'].mean()-10],tiles="OpenStreetMap", zoom_start=4)
 for i in range(0,len(io)):
     html="""
     <p>
